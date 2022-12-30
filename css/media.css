@@ -1,0 +1,193 @@
+@media(min-width:1200px) {
+    .xl-1{ 
+        width: 8.3333%; }
+    .xl-2 { 
+        width: 16.6666%; }
+    .xl-3 {
+        width: 25%;}
+    .xl-4 {
+        width: 33.3333%; }
+    .xl-5 {
+        width: 41.6666%; }
+    .xl-6 {
+        width: 50%; }
+    .xl-7 {
+        width: 58.3333%; }
+    .xl-8 {
+        width: 66.6666%; }
+    .xl-9 {
+        width: 75%; }
+    .xl-10 {
+        width: 83.3333%; }
+    .xl-11 {
+        width: 91.6666%; }
+    .xl-12 {
+        width: 100%; }
+}
+@media(max-width:1199px) {
+    .lg-1 {
+        width: 8.3333%; }
+    .lg-2 {
+        width: 16.6666%; }
+    .lg-3 {
+        width: 25%; }
+    .lg-4 {
+        width: 33.3333%; }
+    .lg-5 {
+        width: 41.6666%; }
+    .lg-6 {
+        width: 50%; }
+    .lg-7 {
+        width: 58.3333%; }
+    .lg-8 {
+        width: 66.6666%; }
+    .lg-9 {
+        width: 75%; }
+    .lg-10 {
+        width: 83.3333%; }
+    .lg-11 {
+        width: 91.6666%; }
+    .lg-12 {
+        width: 100%; }
+    .wel-img-2::before {
+        display: none; }
+    .display-none,.blog-section::before {
+        display: inline-block; }
+}
+@media(max-width:991px) {
+    .container {
+        max-width: 940px; }
+    .md-1 {
+        width: 8.3333%; }
+    .md-2 {
+        width: 16.6666%; }
+    .md-3 {
+        width: 25%; }
+    .md-4 {
+        width: 33.3333%; }
+    .md-5 {
+        width: 41.6666%; }
+    .md-6 {
+        width: 50%; }
+    .md-7 {
+        width: 58.3333%; }
+    .md-8 {
+        width: 66.6666%; }
+    .md-9 {
+        width: 75%;}
+    .md-10 {
+        width: 83.3333%; }
+    .md-11 {
+        width: 91.6666%; }
+    .md-12 {
+        width: 100%; }
+    .navigation,.right-side,.social-icon,.years {
+        display: none; }
+    .md-justify-content-center {
+        justify-content: center; }
+    .md-flex-d-column {
+        flex-direction: column; }
+    .md-align-items-center {
+        align-items: center; }
+    .md-menu {
+        display: inline-flex; position: absolute; top: 90px; left: 0px; background: white; }
+    .menu>li {
+        padding: 20px 0px; }
+    .humburger {
+        color: var(--black-900); padding: 35px; font-size: 24px; }
+    .p-35 {
+        padding: 0px 35px; }
+    .inner-text h1 {
+        line-height: 55px;
+        font-size: 45px;}
+    .py-120 {
+        padding: 60px 0px;}
+    .display-none {
+        display: none;}
+    .welcome-content h2,.service-title h2 {
+        font-size: 45px;
+        line-height: 50px;}
+    .md-display-none {
+        display: inline-block;}
+    .md-text-center{
+        text-align: center;}
+    .special-content {
+        padding: 20px;}
+    .review-text {
+        line-height: 40px; font-size: 28px; padding: 20px;}
+    .quote {
+        margin-top: 20px;
+        margin-bottom: 15px;}
+    .review-text {
+        margin-bottom: 25px; }
+    .lower_block {
+        padding: 20px; }
+    .review-bg {
+        display: none; }
+    .cta-block-one_text {
+        padding-top: 20px; }
+    .blog-section::before {
+        display: none; }
+}
+@media(max-width:767px) {
+    .container {
+        max-width: 740px; }
+    .sm-1 {
+        width: 8.3333%; }
+    .sm-2 {
+        width: 16.6666%; }
+    .sm-3 {
+        width: 25%; }
+    .sm-4 {
+        width: 33.3333%; }
+    .sm-5 {
+        width: 41.6666%; }
+    .sm-6 {
+        width: 50%; }
+    .sm-7 {
+        width: 58.3333%; }
+    .sm-8 {
+        width: 66.6666%; }
+    .sm-9 {
+        width: 75%; }
+    .sm-10 {
+        width: 83.3333%; }
+    .sm-11 {
+        width: 91.6666%; } 
+    .sm-12 {
+        width: 100%; }
+    .header {
+        display: none; }
+    .md-display-none {
+        display: none; }
+}
+@media(max-width:575px) {
+    .container {
+        max-width: 540px; }
+    .xs-1 {
+        width: 8.3333%; }
+    .xs-2 {
+        width: 16.6666%; }
+    .xs-3 {
+        width: 25%; }
+    .xs-4 {
+        width: 33.3333%; }
+    .xs-5 {
+        width: 41.6666%; }
+    .xs-6 {
+        width: 50%; }
+    .xs-7 {
+        width: 58.3333%; }
+    .xs-8 {
+        width: 66.6666%; }
+    .xs-9 {
+        width: 75%; }
+    .xs-10 {
+        width: 83.3333%; }
+    .xs-11 {
+        width: 91.6666%; }
+    .xs-12 {
+        width: 100%; }
+    .xs-justify-content-center{
+        justify-content: center; }
+}

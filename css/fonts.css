@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-Italic.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-BoldItalic.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-Bold.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-SemiBold.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-SemiBoldItalic.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../Fonts/CrimsonText-Regular.woff2') format('woff2'),
+        url('../Fonts/CrimsonText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-MediumItalic.woff2') format('woff2'),
+        url('../Fonts/DMSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-Italic.woff2') format('woff2'),
+        url('../Fonts/DMSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-Bold.woff2') format('woff2'),
+        url('../Fonts/DMSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-Medium.woff2') format('woff2'),
+        url('../Fonts/DMSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-Regular.woff2') format('woff2'),
+        url('../Fonts/DMSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../Fonts/DMSans-BoldItalic.woff2') format('woff2'),
+        url('../Fonts/DMSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+url
